@@ -19,7 +19,7 @@ import java.util.HashMap;
 
 public class SplashActivity extends AppCompatActivity {
 
-
+    // This class manages sesion of the app.
     SessionManagement session;
     //AppControlls gObject;
     AlertDialogManager alert = new AlertDialogManager();
